@@ -87,6 +87,5 @@ management:
       exposure:
         include: "*"
 logging:
-  level: 
-    cn.iguodong.wasp.web.mapper: info
+  level: info
   config: classpath:log4j2.yml
