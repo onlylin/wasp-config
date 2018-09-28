@@ -88,5 +88,5 @@ management:
         include: "*"
 logging:
   level: 
-    cn.iguodong.wasp.web.mapper: INFO
+    cn.iguodong.wasp.web.mapper: info
   config: classpath:log4j2.yml
