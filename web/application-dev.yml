@@ -78,7 +78,7 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: true
     cache-enabled: false
-    log-impl: Log4j2
+    log-impl: LOG4J2
 
 # Spring监控
 management:
